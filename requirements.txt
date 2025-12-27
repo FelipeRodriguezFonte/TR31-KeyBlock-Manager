@@ -1,0 +1,9 @@
+# TR-31 Key Block Manager - Dependencias
+# Python 3.8+
+
+# Interfaz gráfica moderna
+customtkinter>=5.0.0
+
+# Librería TR-31 de Konstantin Novichikhin
+# https://github.com/knovichikhin/psec
+psec>=1.0.0
