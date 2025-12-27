@@ -125,7 +125,7 @@ class TR31App(ctk.CTk):
         # Título
         ctk.CTkLabel(
             main_frame,
-            text="🔐 TR-31 Key Block Manager - Versión Completa",
+            text="🔐 TR-31 Key Block Manager",
             font=ctk.CTkFont(size=24, weight="bold")
         ).grid(row=0, column=0, padx=20, pady=(20, 10), sticky="w")
         
