@@ -8,7 +8,7 @@ Una interfaz gráfica moderna para trabajar con TR-31 key blocks según el está
 
 ## ✨ Características
 
-- **Validar**: Desencripta TR-31 key blocks y extrae la clave protegida
+- **Validar**: Descifra TR-31 key blocks y extrae la clave protegida
 - **Decodificar**: Analiza y muestra información detallada de cabeceras TR-31
 - **Generar**: Crea TR-31 key blocks con configuración personalizada o presets
 - **40+ Key Usage Types**: Implementación completa de la especificación TR-31
